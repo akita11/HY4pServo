@@ -10,7 +10,11 @@ M5Stackシリーズは電源系統が弱く、そのままだとサーボ動作�
 M5Stack等のHY4pコネクタにGroveケーブルで接続し、反対側にサーボモータ（端子の並びがV-G-Sのもの）をつなぎます。
 UIFlowのServoユニットやArduinoIDEのServoライブラリ等で使用します。
 
-※サーボモータの信号線はVDD線の隣の信号線に接続されています。
+<img src="https://github.com/akita11/HY4pServo/blob/main/HY4pServo_conn.jpg" width="240px">
+
+<img src="https://github.com/akita11/HY4pServo/blob/main/HY4pServo_usage.jpg" width="240px">
+
+※サーボモータの信号線は、HY4pコネクタのVDD線の隣の信号線に接続されています。
 
 # Author
 
